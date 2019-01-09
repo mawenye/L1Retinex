@@ -1,4 +1,4 @@
-# L1Retinex
+# L1 Retinex
 
 Please see papers:
 
