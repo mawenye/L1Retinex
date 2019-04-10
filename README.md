@@ -1,6 +1,6 @@
 # L1Retinex
 
-Please see papers:
+Please see our papers:
 
 https://ieeexplore.ieee.org/document/5995422
 
